@@ -2,7 +2,7 @@
 ## Package clap
 ### Libreria go per gestire gli argomenti della linea di comando
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/rmite/go-clap)](https://goreportcard.com/report/github.com/rmite/go-clap)  [![GoDoc](https://godoc.org/github.com/rmite/go-clap?status.svg)](https://godoc.org/github.com/rmite/go-clap)
+[![Go Report Card](https://goreportcard.com/badge/github.com/rmite/clap)](https://goreportcard.com/report/github.com/rmite/clap)  [![GoDoc](https://godoc.org/github.com/rmite/clap?status.svg)](https://godoc.org/github.com/rmite/clap)
 
 #### Descrizione
 
@@ -49,7 +49,7 @@ Il package inoltre permette di:
 - mostrare la sintassi dei comandi
 - mostrare un help generale
 
-Per ulteriori informazioni, consulta la [documentazione](https://godoc.org/github.com/rmite/go-clap) del package.
+Per ulteriori informazioni, consulta la [documentazione](https://godoc.org/github.com/rmite/clap) del package.
 
 #### Esempio
 
